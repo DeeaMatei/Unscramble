@@ -7,7 +7,8 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import com.example.android.unscramble.R
 import com.example.android.unscramble.databinding.GameFragmentBinding
-import com.example.android.unscramble.ui.game.GameViewModel
+import com.example.android.unscramble.ui.game.MAX_NO_OF_WORDS
+import com.example.android.unscramble.ui.game.allWordsList
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 
 /**
